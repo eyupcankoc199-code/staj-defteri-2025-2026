@@ -8,15 +8,17 @@ namespace CS_Basics {
 
     class Program {
 
-        static void Main(string[] args) {
+        static int i;
+ 
+            static void Main(string[] args) {
 
-            int i = 56;
+            TestFunction();
 
-            Consol.WriteLİne("Hello World! " + i);
-
-            Console.ReaKey();
+Console.ReadKey();
 
 
-            void TestFunction
-    {
-}  
+static void TestFuction() {
+    i++;
+ }
+    }
+}
