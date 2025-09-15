@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+Using System.Text{
+using System.Threading.Tasks
+
+namespace CS_Basics {
+
+    class Program {
+
+        static void Main(string[] args) {
+
+            int i = 56;
+
+            Consol.WriteLİne("Hello World! " + i);
+
+            Console.ReaKey();
+
+
+            void TestFunction
+    {
+}  
