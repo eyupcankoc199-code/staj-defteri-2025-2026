@@ -1,7 +1,8 @@
-python eğitimleri izledim 
-javascript öğrendim 
-java html eğitim videosu izledim
-python kodu yazdım
-git ve github eğitimlerini bitirdim
-c++ ile ilgili kod yazdım
-
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UserContentModel">
+    <attachedFolders />
+    <explicitIncludes />
+    <explicitExcludes />
+  </component>
+</project>
