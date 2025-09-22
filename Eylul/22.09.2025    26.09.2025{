@@ -1,0 +1,12 @@
+Parola Doğrulama (Büyük Harf, Küçük Harf, Sayı ve Özel Karakter İçermeli)
+import re
+
+parola = input("Parolanızı girin: ")
+if (len(parola) >= 8 and
+    re.search(r'[A-Z]', parola) and
+    re.search(r'[a-z]', parola) and
+    re.search(r'[0-9]', parola) and
+    re.search(r'[!@#$%^&*(),.?":{}|<>]', parola)):
+    print("Parola güçlü.")
+else:
+    print("Parola zayıf. En az bir büyük harf, küçük harf, rakam ve özel karakter içermelidir.")
